@@ -7,15 +7,19 @@
 	2.使用axios处理请求，使用iview组件库中部分功能进行快速开发，通过vue-cli快速搭建开发环境。
 	3.项目采用vuex处理各组件间的通讯，同时使用vuex存储操作过的路由地址，实现了多标签页的功能。
 #### 项目截图
-1.工程列表页
+1.登录页
+	![Image text](https://github.com/linzi12138/projectImg/blob/master/Screenshot%20from%202019-07-28%2015-30-35.png)
+2.消息列表
+	![Image text](https://github.com/linzi12138/projectImg/blob/master/Screenshot%20from%202019-07-28%2015-30-16.png)
+3.工程列表页
 	![Image text](https://github.com/linzi12138/projectImg/blob/master/Screenshot%20from%202019-07-28%2015-13-44.png)
-2.人员管理页
+4.人员管理页
 	![Image text](https://github.com/linzi12138/projectImg/blob/master/Screenshot%20from%202019-07-28%2015-14-13.png)
-3.人员分布页
+5.人员分布页
 	![Image text](https://github.com/linzi12138/projectImg/blob/master/Screenshot%20from%202019-07-28%2015-14-36.png)
-4.项目定位页
+6.项目定位页
 	![Image text](https://github.com/linzi12138/projectImg/blob/master/Screenshot%20from%202019-07-28%2015-16-16.png)
-5.资源共享页
+7.资源共享页
 	![Image text](https://github.com/linzi12138/projectImg/blob/master/Screenshot%20from%202019-07-28%2015-16-46.png)
-6.表单数据窗口
+8.表单数据窗口
 	![Image text](https://github.com/linzi12138/projectImg/blob/master/Screenshot%20from%202019-07-28%2015-17-39.png)
